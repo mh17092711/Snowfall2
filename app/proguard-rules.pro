@@ -1,0 +1,1 @@
+# Snowfall proguard rules
